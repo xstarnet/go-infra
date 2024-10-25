@@ -50,6 +50,7 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/redis/go-redis/v9 v9.6.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
+	github.com/zeromicro/x v0.0.0-20240408115609-8224c482b07e // indirect
 	go.etcd.io/etcd/api/v3 v3.5.16 // indirect
 	go.etcd.io/etcd/client/pkg/v3 v3.5.16 // indirect
 	go.opentelemetry.io/otel v1.24.0 // indirect
