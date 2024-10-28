@@ -1,12 +1,12 @@
 package gze
 
 import (
-	"github.com/zeromicro/go-zero/core/stores/redis"
+	"github.com/zeromicro/go-zero/core/stores/cache"
 )
 
 type (
 	StoreConf struct {
-		Redis []redis.RedisConf
+		Redis []cache.NodeConf
 		Mongo MongoConf
 	}
 )
